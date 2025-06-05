@@ -1,2 +1,0 @@
-username = Hello
-passward = madhu
