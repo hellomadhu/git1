@@ -1,3 +1,5 @@
 Hello world !!!! My loverly world
 take input from user
 and add the values
+
+submit data to the data base
